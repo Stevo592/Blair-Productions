@@ -2,6 +2,7 @@
 title: "Apple Pie Moonshine"
 tags: ["recipe", "cooking"]
 layout: dafault
+date: 2024-12-21
 ---
 
 # Apple Pie Moonshine
