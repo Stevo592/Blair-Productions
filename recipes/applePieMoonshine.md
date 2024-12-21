@@ -1,6 +1,5 @@
 ---
 title: "Apple Pie Moonshine"
-date: 12/21/24
 tags: ["recipe", "cooking"]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Recipe Title"
-date:
 tags: ["recipe", "cooking"]
 ---
 
