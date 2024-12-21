@@ -1,6 +1,7 @@
 ---
 title: "Apple Pie Moonshine"
 tags: ["recipe", "cooking"]
+layout: dafault
 ---
 
 # Apple Pie Moonshine

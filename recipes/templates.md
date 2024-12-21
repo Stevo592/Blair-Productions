@@ -1,6 +1,7 @@
 ---
 title: "Recipe Title"
 tags: ["recipe", "cooking"]
+layout: default
 ---
 
 # Recipe Title
