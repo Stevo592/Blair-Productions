@@ -8,7 +8,8 @@ description: This is where I like to write stuff
 ## Introduction
 Welcome to my website! Here you'll find a random collection of things I like to write about. 
 
-## Recent Posts
+## Posts
+-[Recipes](recipes/index.md)
 
 
 ## About
