@@ -1,7 +1,7 @@
 ---
-title: "Apple Pie Moonshine"
+title: "Recipe Title1"
 tags: ["recipe", "cooking"]
-layout: dafault
+layout: default
 date: 2024-12-21
 ---
 
