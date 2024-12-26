@@ -2,7 +2,7 @@
 title: "Template"
 tags: ["recipe", "cooking"]
 layout: default
-date: 2024-12-21
+date: 2024-12-20
 ---
 
 # Recipe Title
