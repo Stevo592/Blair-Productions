@@ -11,7 +11,6 @@ Welcome to my website! Here you'll find a random collection of things I like to 
 ## Posts
 - [Recipes](recipes/index.md)
 - [Tech](tech/index.md)
-- [Direct oh my zsh link](tech/ohmyzsh.md)
 
 ## About
 My name is stephen and I like to do tech things and other things 
